@@ -2,9 +2,9 @@
 
 ### Objetivos
 
-* Facilitar a vida dos recrutadores e de quem os procuram pela a região.
-* Disponibilizar curriculos para os profissionais da sua categoria que estejam na mesma região. Ou o modelo remoto se o usuário preferir.
-* Te levar apenas aos profissionais qualificados para a área desejada.
+* Conseguir fazer a ponte entre a empresa e o usuário.
+* Disponibilizar curriculos para os profissionais da sua categoria que estejam na mesma região.
+* Levar os profissionais qualificados para a área desejada.
 * Fazer o sistema de login da aplicação (sem utilizar JWT)
 
 
