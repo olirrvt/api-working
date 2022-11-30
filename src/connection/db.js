@@ -21,7 +21,7 @@ if (process.env.ENVIRONMENT === 'production'){
         process.env.DATABASE_USERNAME_TESTE,
         process.env.DATABASE_PASSWORD_TESTE,
         {
-            dialect:"postgres",
+            dialect:"mysql",
             host:process.env.DATABASE_HOST_TESTE,
            port:process.env.DATABASE_PORT_TESTE
         }
